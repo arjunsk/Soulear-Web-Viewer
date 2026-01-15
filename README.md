@@ -5,6 +5,7 @@
 <img align="center" title="Example clip from MJPEG stream" src="https://github.com/SeanPesce/Suear-Web-Viewer/blob/main/image/example.webp?raw=true" alt="Example clip from MJPEG stream" width="320px">
 </p>  
 
+Product: https://share.temu.com/vA397NutEeC
 
 ## Overview  
 A utility for converting [Suear "smart" earwax cleaner](https://play.google.com/store/apps/details?id=com.i4season.bkCamera) video streams to MJPEG for general-purpose use.  
